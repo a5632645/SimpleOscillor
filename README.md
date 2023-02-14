@@ -1,2 +1,2 @@
 # SimpleOscillor
-# A simple WaveTable oscillor
+# A simple oscillor but not wavetable oscillator
